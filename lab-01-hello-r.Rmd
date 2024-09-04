@@ -2,7 +2,8 @@
 title: "Lab 01 - Hello R"
 author: "Your name"
 date: "2021-August-30"
-output: html_document
+output: html_document;
+        md_document
 ---
 
 ### Load packages
